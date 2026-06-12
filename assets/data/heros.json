@@ -1,0 +1,35 @@
+[
+  {
+    "nom": "Ethan",
+    "type": "Chevalier",
+    "pvMax": 120,
+    "attaque": 15,
+    "defense": 10,
+    "imagePath": "images/personnages/heros/Chevalier-Idle.png",
+    "attaquesSpeciales": [
+      { "nom": "Coup puissant", "degatsBonus": 15, "description": "Un coup dévastateur !" }
+    ]
+  },
+  {
+    "nom": "Raphael",
+    "type": "Lancier",
+    "pvMax": 100,
+    "attaque": 18,
+    "defense": 7,
+    "imagePath": "images/personnages/heros/Lancier-Idle.png",
+    "attaquesSpeciales": [
+      { "nom": "Charge", "degatsBonus": 18, "description": "Une charge fulgurante à la lance !" }
+    ]
+  },
+  {
+    "nom": "Camille",
+    "type": "Princesse",
+    "pvMax": 80,
+    "attaque": 20,
+    "defense": 5,
+    "imagePath": "images/personnages/heros/Princesse-Idle.png",
+    "attaquesSpeciales": [
+      { "nom": "Éclat royal", "degatsBonus": 20, "description": "Un éclat de lumière éblouissant !" }
+    ]
+  }
+]
